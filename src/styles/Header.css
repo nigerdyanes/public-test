@@ -1,0 +1,17 @@
+.Circle__profile {
+  width: 40px;
+  height: 40px;
+  border-radius: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+
+  left: 1.03%;
+  right: -1.03%;
+  top: 0%;
+  bottom: 0%;
+
+  background: #c3c3c3;
+  transform: rotate(0.59deg);
+}

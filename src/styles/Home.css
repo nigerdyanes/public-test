@@ -1,0 +1,79 @@
+.Info__span {
+  background-color: #cfd4d6;
+}
+
+span {
+  color: #6a6a6d;
+}
+
+.Section__breadcrumb {
+  margin-top: 20px;
+}
+
+.Section__Enum {
+  margin-top: 25px;
+}
+
+.Section__input__search {
+  margin-top: 50px;
+}
+
+.Section__table {
+  margin-top: 25px;
+}
+
+.Paginate__table {
+  margin-top: 10px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: baseline;
+}
+
+.Paginate > ul {
+  display: flex;
+  margin-right: -30px;
+}
+
+.Paginate > ul > li {
+  list-style: none;
+  margin-right: 20px;
+}
+
+.Paginate__max {
+  display: flex;
+}
+
+.Paginate__max > li {
+  list-style: none;
+  margin-right: 15px;
+}
+
+.Paginate__active {
+  background-color: #84bd00;
+  color: white;
+  width: 21px;
+  text-align: center;
+  border-radius: 5px;
+}
+
+.Input__search {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 3px 3px 3px 24px;
+
+  width: 597px;
+  height: 56px;
+  left: 288px;
+  top: 296px;
+
+  /* color/neutro/white */
+
+  background: #ffffff;
+  border-radius: 30px;
+  border: none;
+}
+
+input:focus {
+  outline: none;
+}

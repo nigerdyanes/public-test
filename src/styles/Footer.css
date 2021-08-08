@@ -1,0 +1,8 @@
+.Section__footer {
+  display: flex;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  border-top: 2px solid #c9c5c5;
+  padding: 20px;
+}
